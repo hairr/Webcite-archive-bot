@@ -1,3 +1,9 @@
+"""
+This code was written by Hair <hairrazerrr@gmail.com>
+It was heavily based off of Lowercase Sigmabot III off of wikipedia <https://github.com/legoktm/webcite-bot/>
+Thanks for everything.
+"""
+
 import urllib
 import urllib2
 import cookielib
