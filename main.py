@@ -8,7 +8,7 @@ import urllib
 import urllib2
 import cookielib
 import mwhair
-import mwparserfromhell
+import mwparserfromhell as mw
 import time
 import datetime
 import sqlite3 as lite
