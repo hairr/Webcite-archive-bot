@@ -15,7 +15,7 @@ import sqlite3 as lite
 from bs4 import BeautifulSoup as BS
 
 
-class WebCiteArchiveBot:
+class WebCiteArchiveBot(object):
     def __init__(self, username, password):
         """
         Initializing!~
